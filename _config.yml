@@ -17,7 +17,7 @@ title: WebChef
 email: webchef.recipes@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Find a recipe you like online, import via share in web browser into WebChef, ingredients added directly to shopping cart! Easily manage recipes you find online and store your own.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TheRealWebChef
 
