@@ -1,0 +1,20 @@
+---
+layout: page
+title: Recipes
+---
+
+<div class="wrapper">
+  {% assign all_recipes = site.pages | where: "layout", "recipe" %}
+
+  {%- if all_recipes -%}
+    <ul>
+      {%- for recipe_page in all_recipes -%}
+        {%- if recipe_page.title -%}
+          <li>
+            <a class="page-link" href="{{ recipe_page.url | relative_url }}">{{ recipe_page.title | escape }}</a>
+          </li>
+        {%- endif -%}
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+</div>

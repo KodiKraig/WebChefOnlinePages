@@ -13,22 +13,37 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
 title: WebChef
+
 email: webchef.recipes@gmail.com
+
 description: >- # this means to ignore newlines until "baseurl:"
   Find a recipe you like online, import via share in web browser into WebChef, ingredients added directly to shopping cart! Easily manage recipes you find online and store your own.
+
 baseurl: "/" # the subpath of your site, e.g. /blog
+
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username: TheRealWebChef
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+  - recipes.html
+  - about.md
+  - privacy.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - github-pages
 
 # Build settings
 markdown: kramdown
 theme: minima
 
-plugins:
-  - jekyll-feed
-  - github-pages
-
+# Github Pages required settings
 lsi: false
 safe: true
 source: .
