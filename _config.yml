@@ -33,8 +33,8 @@ app_store_url: "https://apps.apple.com/us/app/webchef/id1533206829"
 # this and add the path to the pages in order as they should show up
 header_pages:
   - recipes.html
-  - about.md
-  - privacy.md
+  - about.html
+  - privacy.html
 
 # Plugins
 plugins:
