@@ -27,6 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: TheRealWebChef
 
+app_store_url: "https://apps.apple.com/us/app/webchef/id1533206829"
+
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
