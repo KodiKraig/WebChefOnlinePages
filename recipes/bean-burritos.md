@@ -5,6 +5,8 @@ title: World Famous Bean Burritos
 
 image: https://www.webchef.recipes/assets/FamousBlackBeans.jpg
 
+description: Homemade burritos with a kick! Mouthwatering flavor with every bite.
+
 ingredients:
   - 3 garlic cloves (chopped)
   - 1 onion (chopped)

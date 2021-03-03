@@ -3,6 +3,8 @@ layout: recipe
 
 title: Beth's Brownie Recipe
 
+description: Just like grandmas homemade brownies when you were kid! Extra rich and chewy that can be sure to satisfy the whole family.
+
 ingredients:
   - 1 cup butter, melted
   - 2 cups sugar
