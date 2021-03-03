@@ -3,11 +3,14 @@ layout: recipe
 
 title: World Famous Bean Burritos
 
+image: FamousBlackBeans.jpg
+
 ingredients:
   - 3 garlic cloves (chopped)
   - 1 onion (chopped)
   - 1 jalapeno (chopped)
   - 2 (14oz) cans black beans
+  - 1 (14oz) can pinto beans
   - 2 tomatoes (chopped or canned)
   - 2 cup cheese
   - 12 tortillas
