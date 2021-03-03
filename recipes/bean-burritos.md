@@ -3,7 +3,7 @@ layout: recipe
 
 title: World Famous Bean Burritos
 
-image: FamousBlackBeans.jpg
+image: https://www.webchef.recipes/assets/FamousBlackBeans.jpg
 
 ingredients:
   - 3 garlic cloves (chopped)
